@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyContacts_240</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_person">PersonActivity</string>
+</resources>
